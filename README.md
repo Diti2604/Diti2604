@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://my-website-khaki-two.vercel.app/](https://my-website-khaki-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://diti-steel.vercel.app/]
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 

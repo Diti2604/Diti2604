@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://diti-steel.vercel.app/]
+- 👨‍💻 All of my projects are available at [
+https://indritferati.vercel.app/]
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 

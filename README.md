@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at [
 https://indritferati.vercel.app/]
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, C, C++, Python, Java**
 
-- 📫 How to reach me **ditiboyboy@gmail.com**
+- 📫 How to reach me **indritferati04@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 

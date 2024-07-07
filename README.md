@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-250.jpg?t=st=1720329630~exp=1720333230~hmac=1669406c8a25c87f011b2cc084335ecc690bdc8aa3ef4e03e1b2a72bcb4a5d52&w=740])]
+[![MasterHead](https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-250.jpg?t=st=1720329630~exp=1720333230~hmac=1669406c8a25c87f011b2cc084335ecc690bdc8aa3ef4e03e1b2a72bcb4a5d52&w=740)]
 <h1 align="center">Hi 👋, I'm Indrit Ferati</h1>
 <h3 align="center">A passionate frontend developer from Albania</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
